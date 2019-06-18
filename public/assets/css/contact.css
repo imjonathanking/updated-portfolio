@@ -1,0 +1,23 @@
+.contact-page{
+    /* border: 2px solid red; */
+    height: 40vh;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-info{
+    /* border: 2px solid blue; */
+    height: 80%;
+    width: 80%;
+    /* text-align: center; */
+}
+
+.contact-title{
+    font-weight: bold;
+}
+
+.contact-value{
+    color: rgb(241, 103, 103);
+}
